@@ -1,4 +1,61 @@
-h1 Welcome to Harp.
-h3 This is yours to own. Enjoy.
-p You can use <a href="https://github.com/shakyShane/browser-sync">browser-sync</a> to update things in real-time, too. 
-p Just use the command <em>browser-sync start --proxy 'localhost:9000' --files '*.jade, *.scss'</em> from inside of the `_reporting` directory.
+// Mixins
+mixin liquidity(order, price, amount_ppc, amount_nbt)
+  tr
+    td #{order}
+    td #{price}
+    td #{amount_ppc}
+    td #{amount_nbt}
+
+mixin trade(date, id, type, price, amount)
+  tr
+    td #{date}
+    td #{id}
+    td #{type}
+    td #{price}
+    td #{amount}
+
+// Content
+
+header
+  p Test
+
+section#content
+  h1 Grant Operations Report
+
+  h2 Overview
+
+  h2 Sample Exchange (CCEDK)
+
+  p Notes about the exchange.
+
+  h3 Market Example (NBT/PPC)
+
+  hr
+  h4 Liquidity
+
+  mixin liquidity(order, price, amount_ppc, amount_nbt)
+    tr
+      td #{order}
+      td #{price}
+      td #{amount_ppc}
+      td #{amount_nbt}
+
+  table#market_liquidity
+    tr
+    each val in ["Order", "Price", "Amount (PPC)", "Amount (NBT)"]
+      th= val
+    +liquidity("BUY", "1.33278485", "51959.477135", "38985.6450")
+    +liquidity("SELL", "1.34820040", "107495.187241", "79732.3508")    
+
+  hr
+  h4 Recent Trades
+
+  table#recent_trades
+    tr
+    each val in ["Date", "ID", "Type", "Price", "Amount"]
+      th= val
+    +trade("Fri Oct 17 00:29:14 GMT 2014", 6415, "BUY", "0.98909812 PPC", 10000.0000)
+    +trade("Fri Oct 17 00:26:27 GMT 2014", 6414, "SELL", "0.98331698 PPC", 10020.0000)
+
+section#sidebar
+  p Sidebar Content
