@@ -33,13 +33,6 @@ section#content
   hr
   h4 Liquidity
 
-  mixin liquidity(order, price, amount_ppc, amount_nbt)
-    tr
-      td #{order}
-      td #{price}
-      td #{amount_ppc}
-      td #{amount_nbt}
-
   table#market_liquidity
     tr
     each val in ["Order", "Price", "Amount (PPC)", "Amount (NBT)"]
