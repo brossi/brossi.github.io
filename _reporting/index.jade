@@ -6,14 +6,6 @@ mixin liquidity(order, price, amount_ppc, amount_nbt)
     td #{amount_ppc}
     td #{amount_nbt}
 
-mixin trade(date, id, type, price, amount)
-  tr
-    td #{date}
-    td #{id}
-    td #{type}
-    td #{price}
-    td #{amount}
-
 // Content
 
 header
@@ -44,11 +36,16 @@ section#content
   h4 Recent Trades
 
   table#recent_trades
+    - var trades = public.logs._data
     tr
-    each val in ["Date", "ID", "Type", "Price", "Amount"]
+    each val in ["Date", "Type", "Price", "Amount"]
       th= val
-    +trade("Fri Oct 17 00:29:14 GMT 2014", 6415, "BUY", "0.98909812 PPC", 10000.0000)
-    +trade("Fri Oct 17 00:26:27 GMT 2014", 6414, "SELL", "0.98331698 PPC", 10020.0000)
+    each trade in trades
+      tr
+        td #{trade.date}
+        td #{trade.type}
+        td #{trade.price}
+        td #{trade.amount}
 
 section#sidebar
   p Sidebar Content

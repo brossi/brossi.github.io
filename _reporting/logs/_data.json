@@ -1,0 +1,586 @@
+{
+  "6415": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.98909812",
+  "amount":"10000.0",
+  "date":"Fri Oct 17 00:29:14 GMT 2014"
+  },
+  "6414": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.98331698",
+  "amount":"10020.0",
+  "date":"Fri Oct 17 00:26:27 GMT 2014"
+  },
+  "6411": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.99007937",
+  "amount":"10000.0",
+  "date":"Fri Oct 17 00:24:08 GMT 2014"
+  },
+  "6410": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.98331698",
+  "amount":"10021.0",
+  "date":"Fri Oct 17 00:22:45 GMT 2014"
+  },
+  "6407": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.99106256",
+  "amount":"10000.0",
+  "date":"Fri Oct 17 00:18:08 GMT 2014"
+  },
+  "6406": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.98428291",
+  "amount":"10020.0",
+  "date":"Fri Oct 17 00:10:40 GMT 2014"
+  },
+  "6403": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.99007937",
+  "amount":"10000.0",
+  "date":"Fri Oct 17 00:13:38 GMT 2014"
+  },
+  "6402": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.98235294",
+  "amount":"10020.0",
+  "date":"Fri Oct 17 00:05:26 GMT 2014"
+  },
+  "6399": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.99106256",
+  "amount":"10000.0",
+  "date":"Fri Oct 17 00:04:00 GMT 2014"
+  },
+  "6398": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.98331698",
+  "amount":"10020.0",
+  "date":"Fri Oct 17 00:01:12 GMT 2014"
+  },
+  "6393": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.98909812",
+  "amount":"10001.0",
+  "date":"Thu Oct 16 23:58:53 GMT 2014"
+  },
+  "6392": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.98331698",
+  "amount":"10021.0",
+  "date":"Thu Oct 16 23:57:09 GMT 2014"
+  },
+  "6389": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.98909812",
+  "amount":"10000.0",
+  "date":"Thu Oct 16 23:47:25 GMT 2014"
+  },
+  "6388": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.98428291",
+  "amount":"10021.0",
+  "date":"Thu Oct 16 23:45:56 GMT 2014"
+  },
+  "6385": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.99204771",
+  "amount":"10000.0",
+  "date":"Thu Oct 16 23:42:07 GMT 2014"
+  },
+  "6384": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.98428291",
+  "amount":"10020.0",
+  "date":"Thu Oct 16 23:40:39 GMT 2014"
+  },
+  "6381": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.97747307",
+  "amount":"10000.0",
+  "date":"Thu Oct 16 23:33:35 GMT 2014"
+  },
+  "6380": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.98331698",
+  "amount":"10020.0",
+  "date":"Thu Oct 16 23:27:56 GMT 2014"
+  },
+  "6377": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.99303483",
+  "amount":"10000.0",
+  "date":"Thu Oct 16 23:26:26 GMT 2014"
+  },
+  "6376": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.98719212",
+  "amount":"10020.0",
+  "date":"Thu Oct 16 23:24:51 GMT 2014"
+  },
+  "6373": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.99303483",
+  "amount":"10000.0",
+  "date":"Thu Oct 16 23:22:52 GMT 2014"
+  },
+  "6372": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.98235294",
+  "amount":"10020.0",
+  "date":"Thu Oct 16 23:20:47 GMT 2014"
+  },
+  "6369": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.98714144",
+  "amount":"10000.0",
+  "date":"Thu Oct 16 23:19:06 GMT 2014"
+  },
+  "6368": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.98235294",
+  "amount":"10020.0",
+  "date":"Thu Oct 16 23:23:29 GMT 2014"
+  },
+  "6361": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.99007937",
+  "amount":"10000.0",
+  "date":"Thu Oct 16 23:19:43 GMT 2014"
+  },
+  "6360": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.98043053",
+  "amount":"10020.0",
+  "date":"Thu Oct 16 23:11:31 GMT 2014"
+  },
+  "6357": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.9851925",
+  "amount":"10000.0",
+  "date":"Thu Oct 16 23:15:50 GMT 2014"
+  },
+  "6356": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.97947214",
+  "amount":"10020.0",
+  "date":"Thu Oct 16 23:13:39 GMT 2014"
+  },
+  "6353": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.98616601",
+  "amount":"10000.0",
+  "date":"Thu Oct 16 23:02:26 GMT 2014"
+  },
+  "6352": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.97756098",
+  "amount":"10020.0",
+  "date":"Thu Oct 16 23:00:17 GMT 2014"
+  },
+  "6349": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.9813176",
+  "amount":"10299.0",
+  "date":"Thu Oct 16 22:48:31 GMT 2014"
+  },
+  "6348": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.98719212",
+  "amount":"10320.0",
+  "date":"Thu Oct 16 22:46:22 GMT 2014"
+  },
+  "6345": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"1.01012146",
+  "amount":"10000.0",
+  "date":"Thu Oct 16 22:36:09 GMT 2014"
+  },
+  "6344": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"1.003003",
+  "amount":"10020.0",
+  "date":"Thu Oct 16 22:33:15 GMT 2014"
+  },
+  "6341": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"1.01319797",
+  "amount":"10000.0",
+  "date":"Thu Oct 16 22:22:45 GMT 2014"
+  },
+  "6340": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"1.00804829",
+  "amount":"10020.0",
+  "date":"Thu Oct 16 22:19:37 GMT 2014"
+  },
+  "6337": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"1.01732926",
+  "amount":"10000.0",
+  "date":"Thu Oct 16 22:18:08 GMT 2014"
+  },
+  "6336": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"1.00906344",
+  "amount":"10020.0",
+  "date":"Thu Oct 16 22:22:46 GMT 2014"
+  },
+  "6333": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"1.01836735",
+  "amount":"10000.0",
+  "date":"Thu Oct 16 22:21:14 GMT 2014"
+  },
+  "6332": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"1.00804829",
+  "amount":"10020.0",
+  "date":"Thu Oct 16 22:19:30 GMT 2014"
+  },
+  "6329": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"1.01319797",
+  "amount":"10000.0",
+  "date":"Thu Oct 16 22:06:55 GMT 2014"
+  },
+  "6328": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"1.00703518",
+  "amount":"10020.0",
+  "date":"Thu Oct 16 22:05:44 GMT 2014"
+  },
+  "6325": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"1.01319797",
+  "amount":"3000.0",
+  "date":"Thu Oct 16 22:04:51 GMT 2014"
+  },
+  "6324": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"1.00906344",
+  "amount":"1002.0",
+  "date":"Thu Oct 16 22:02:50 GMT 2014"
+  },
+  "6322": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"1.00906344",
+  "amount":"1002.0",
+  "date":"Thu Oct 16 22:02:47 GMT 2014"
+  },
+  "6320": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"1.00906344",
+  "amount":"1002.0",
+  "date":"Thu Oct 16 22:02:33 GMT 2014"
+  },
+  "6317": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"1.01319797",
+  "amount":"1000.0",
+  "date":"Thu Oct 16 21:53:34 GMT 2014"
+  },
+  "6315": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"1.01319797",
+  "amount":"1000.0",
+  "date":"Thu Oct 16 21:53:27 GMT 2014"
+  },
+  "6314": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"1.003003",
+  "amount":"1002.0",
+  "date":"Thu Oct 16 21:52:55 GMT 2014"
+  },
+  "6312": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"1.0110999",
+  "amount":"1002.0",
+  "date":"Thu Oct 16 20:44:14 GMT 2014"
+  },
+  "6309": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.98616601",
+  "amount":"10000.0",
+  "date":"Thu Oct 16 19:39:51 GMT 2014"
+  },
+  "6308": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.97851563",
+  "amount":"10020.0",
+  "date":"Thu Oct 16 19:37:20 GMT 2014"
+  },
+  "6305": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.98616601",
+  "amount":"4000.0",
+  "date":"Thu Oct 16 19:35:28 GMT 2014"
+  },
+  "6304": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.98428291",
+  "amount":"4008.0",
+  "date":"Thu Oct 16 19:31:32 GMT 2014"
+  },
+  "6301": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.98616601",
+  "amount":"2000.0",
+  "date":"Thu Oct 16 19:24:55 GMT 2014"
+  },
+  "6299": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.98616601",
+  "amount":"1992.0",
+  "date":"Thu Oct 16 19:22:41 GMT 2014"
+  },
+  "6298": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.97851563",
+  "amount":"4000.0",
+  "date":"Thu Oct 16 19:21:02 GMT 2014"
+  },
+  "6295": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.98325123",
+  "amount":"4990.0",
+  "date":"Thu Oct 16 19:21:12 GMT 2014"
+  },
+  "6294": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.97756098",
+  "amount":"5000.0",
+  "date":"Thu Oct 16 19:19:47 GMT 2014"
+  },
+  "6291": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.98325123",
+  "amount":"1000.0",
+  "date":"Thu Oct 16 19:11:35 GMT 2014"
+  },
+  "6289": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.98325123",
+  "amount":"1000.0",
+  "date":"Thu Oct 16 19:10:51 GMT 2014"
+  },
+  "6287": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.98228346",
+  "amount":"6.0",
+  "date":"Thu Oct 16 18:36:55 GMT 2014"
+  },
+  "6285": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.98228346",
+  "amount":"1000.0",
+  "date":"Thu Oct 16 18:35:33 GMT 2014"
+  },
+  "6282": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.98331698",
+  "amount":"3012.0",
+  "date":"Thu Oct 16 15:52:36 GMT 2014"
+  },
+  "6275": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.96893204",
+  "amount":"1000.0",
+  "date":"Thu Oct 16 14:46:01 GMT 2014"
+  },
+  "6273": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.97651663",
+  "amount":"198.66533149",
+  "date":"Thu Oct 16 14:14:22 GMT 2014"
+  },
+  "6272": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.96624879",
+  "amount":"200.0",
+  "date":"Thu Oct 16 13:56:02 GMT 2014"
+  },
+  "6268": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.96987366",
+  "amount":"51.90845757",
+  "date":"Thu Oct 16 13:20:58 GMT 2014"
+  },
+  "6264": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"SELL",
+  "price":"0.96987366",
+  "amount":"51.9084",
+  "date":"Thu Oct 16 13:20:58 GMT 2014"
+  },
+  "6215": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.95229008",
+  "amount":"1000.0",
+  "date":"Thu Oct 16 00:29:06 GMT 2014"
+  },
+  "6213": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.94686907",
+  "amount":"1000.0",
+  "date":"Wed Oct 15 21:24:12 GMT 2014"
+  },
+  "6211": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.94776828",
+  "amount":"1000.0",
+  "date":"Wed Oct 15 20:57:35 GMT 2014"
+  },
+  "6207": {
+  "order_id":"null",
+  "pair":"nbtppc",
+  "type":"BUY",
+  "price":"0.95138227",
+  "amount":"99.8547093",
+  "date":"Wed Oct 15 19:23:18 GMT 2014"
+  }
+}
